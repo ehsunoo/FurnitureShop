@@ -1,0 +1,78 @@
+body {
+  background-color: #f4f9fd;
+}
+.title {
+  padding: 20px 0;
+}
+
+.title h2 {
+  font-size: 25px;
+  font-weight: 400;
+  color: black;
+}
+
+.image {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.content {
+  background: white;
+  padding: 1rem;
+  box-shadow: 0 6px 10px -5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+.details {
+  font-size: 14px;
+}
+
+.details h4 {
+  font-weight: bold;
+}
+
+.orderbox {
+  box-shadow: 0 6px 10px -5px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  border-radius: 5px;
+  padding: 0.6rem;
+}
+
+.orderbox h4 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.orderbox h3 {
+  padding: 10px;
+  text-align: center;
+}
+
+.orderbox hr {
+  margin: 1.5rem 0.5rem;
+}
+
+.buy {
+  background: #09294c;
+  margin: 0 auto;
+  text-align: center;
+  padding: 6px 60px;
+}
+
+.ads {
+  background-color: white;
+  box-shadow: 0 6px 10px -5px rgba(0, 0, 0, 0.1);
+  padding: 0.6rem;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.ads h4 {
+  font-size: 18px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.ads img {
+  margin: 0 auto;
+}

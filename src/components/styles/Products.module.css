@@ -1,0 +1,43 @@
+a{
+  text-decoration: none;
+}
+
+.main-product {
+  background-color: #09284b;
+  background-image: url("../../assets/bg_main.png");
+  background-position: center center;
+  height: 100%;
+  padding-top: 3rem;
+}
+
+.box-img {
+  background: #051d36;
+  text-align: center;
+  padding-bottom: 30px;
+  min-height: 280px;
+  margin-bottom: 30px;
+  position: relative;
+  border-bottom: solid #0d6efd 3px;
+  transition: ease all 0.5s;
+}
+
+.box-img:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  background: #0d6efd;
+}
+
+.box-img h4 {
+  color: #fff;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  font-size: 25px;
+  font-weight: 500;
+  transition: all 0.3s ease 0s;
+  letter-spacing: 0px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

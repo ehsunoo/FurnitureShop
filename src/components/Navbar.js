@@ -54,16 +54,16 @@ const Navbar = () => {
           <li type="button" className={`btn btn-info ${classes.cart}`} data-bs-toggle="modal" data-bs-target="#cartModal">
             <FontAwesomeIcon icon={faCartShopping} /> Cart ({numberOfCartItems})
           </li>
-          <Link to="/signup">
+          {/* <Link to="/signup"> */}
             <li className={`btn btn-primary ${classes.signup}`}>
               <FontAwesomeIcon icon={faUserPlus} /> Sign up
             </li>
-          </Link>
-          <Link to="/login">
+          {/* </Link> */}
+          {/* <Link to="/login"> */}
             <li className={`btn btn-primary ${classes.login}`}>
               <FontAwesomeIcon icon={faUser} /> Login
             </li>
-          </Link>
+          {/* </Link> */}
         </div>
       </div>
       <div className="modal fade" id="cartModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">

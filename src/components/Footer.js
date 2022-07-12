@@ -11,7 +11,7 @@ function Footer() {
         <img src={Logo} width="100" />
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-            <li className="nav-item"> All Rights Reserved. Shopify © 2022</li>
+            <li className="nav-item"> All Rights Reserved © 2022</li>
           </ul>
         </div>
       </div>

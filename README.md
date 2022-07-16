@@ -17,6 +17,7 @@ A modern shop, built with ReactJS and Bootstrap.
 
 ## Features
 - Modern UI
+- Responsive design
 - Functional components based
 - "React Context" used for state managing
 - Complete cart's features (Add, Remove and Update cart's items)
